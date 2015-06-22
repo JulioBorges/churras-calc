@@ -20,13 +20,13 @@
     
     <gap:platform name="android" />
     <gap:platform name="winphone" />
-    <icon src="icon-droid.png" gap:platform="android" gap:density="ldpi" />
-    <icon src="icon-droid.png" gap:platform="android" gap:density="mdpi" />
-    <icon src="icon-droid.png" gap:platform="android" gap:density="hdpi" />
-    <icon src="icon-droid.png" gap:platform="android" gap:density="xhdpi" />
-    <icon src="icon-droid.png" gap:platform="android" gap:density="xxhdpi" />
-    <icon src="icon-wp.png" gap:platform="winphone" />
-    <icon src="icon-wp.png" gap:platform="winphone" gap:role="background" />
-
+    <gap:splash src="splash.png" />
+    <icon src="icon.png" gap:platform="android" gap:density="ldpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="mdpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="hdpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="xhdpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="xxhdpi" />
+    <icon src="icon.png" gap:platform="winphone" />
+    <icon src="icon.png" gap:platform="winphone" gap:role="background" />
 
 </widget>
